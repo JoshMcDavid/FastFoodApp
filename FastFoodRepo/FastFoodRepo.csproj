@@ -6,4 +6,12 @@
  
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.22" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FastFoodModels\FastFoodModels.csproj" />
+  </ItemGroup>
+
 </Project>
