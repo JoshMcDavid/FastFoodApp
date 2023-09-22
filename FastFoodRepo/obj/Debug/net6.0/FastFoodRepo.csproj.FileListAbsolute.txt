@@ -1,0 +1,15 @@
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\bin\Debug\net6.0\FastFoodRepo.deps.json
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\bin\Debug\net6.0\FastFoodRepo.dll
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\bin\Debug\net6.0\FastFoodRepo.pdb
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\bin\Debug\net6.0\FastFoodModels.dll
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\bin\Debug\net6.0\FastFoodModels.pdb
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\obj\Debug\net6.0\FastFoodRepo.csproj.AssemblyReference.cache
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\obj\Debug\net6.0\FastFoodRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\obj\Debug\net6.0\FastFoodRepo.AssemblyInfoInputs.cache
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\obj\Debug\net6.0\FastFoodRepo.AssemblyInfo.cs
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\obj\Debug\net6.0\FastFoodRepo.csproj.CoreCompileInputs.cache
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\obj\Debug\net6.0\FastFoodRepo.csproj.CopyComplete
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\obj\Debug\net6.0\FastFoodRepo.dll
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\obj\Debug\net6.0\refint\FastFoodRepo.dll
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\obj\Debug\net6.0\FastFoodRepo.pdb
+C:\Users\16479\source\repos\FastFoodApp\FastFoodRepo\obj\Debug\net6.0\ref\FastFoodRepo.dll

@@ -1,0 +1,12 @@
+C:\Users\16479\source\repos\FastFoodApp\FastFoodModels\bin\Debug\net6.0\FastFoodModels.deps.json
+C:\Users\16479\source\repos\FastFoodApp\FastFoodModels\bin\Debug\net6.0\FastFoodModels.dll
+C:\Users\16479\source\repos\FastFoodApp\FastFoodModels\bin\Debug\net6.0\FastFoodModels.pdb
+C:\Users\16479\source\repos\FastFoodApp\FastFoodModels\obj\Debug\net6.0\FastFoodModels.csproj.AssemblyReference.cache
+C:\Users\16479\source\repos\FastFoodApp\FastFoodModels\obj\Debug\net6.0\FastFoodModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16479\source\repos\FastFoodApp\FastFoodModels\obj\Debug\net6.0\FastFoodModels.AssemblyInfoInputs.cache
+C:\Users\16479\source\repos\FastFoodApp\FastFoodModels\obj\Debug\net6.0\FastFoodModels.AssemblyInfo.cs
+C:\Users\16479\source\repos\FastFoodApp\FastFoodModels\obj\Debug\net6.0\FastFoodModels.csproj.CoreCompileInputs.cache
+C:\Users\16479\source\repos\FastFoodApp\FastFoodModels\obj\Debug\net6.0\FastFoodModels.dll
+C:\Users\16479\source\repos\FastFoodApp\FastFoodModels\obj\Debug\net6.0\refint\FastFoodModels.dll
+C:\Users\16479\source\repos\FastFoodApp\FastFoodModels\obj\Debug\net6.0\FastFoodModels.pdb
+C:\Users\16479\source\repos\FastFoodApp\FastFoodModels\obj\Debug\net6.0\ref\FastFoodModels.dll
